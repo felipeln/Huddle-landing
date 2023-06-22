@@ -151,8 +151,8 @@ main{
 /* info-box */
 
 .info-box{
-    max-width: 800px;
-    padding: 60px 40px;
+    max-width: 900px;
+    padding: 80px 40px;
     text-align: center;
     margin: 0 auto;
     background-color: #fff;
