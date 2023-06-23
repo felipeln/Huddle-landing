@@ -19,6 +19,8 @@ header{
 
     background-size: contain;
     background-position: right top;
+
+    min-height: 100vh;
 }
 
 .header-menu{
@@ -103,10 +105,10 @@ main{
     position: relative;
 }
 .sobre{
-    padding: 60px 0;
     display: grid;
     grid-template-rows: 1fr 1fr 1fr;
     gap: 60px 0;
+
 }
 
 .sobre-item{
@@ -164,6 +166,7 @@ main{
 
     position: relative;
     bottom: -100px;
+    margin-top: 120px;
     
 }
 .info-box h2{
